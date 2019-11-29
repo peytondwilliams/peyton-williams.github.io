@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Peyton Williams
+## A Cool Dude
 
-You can use the [editor on GitHub](https://github.com/peytondwilliams/peyton-williams.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the beginning of my portfolio website! It will likely be rebuilt using bootstrap.
 
 ### Markdown
 
