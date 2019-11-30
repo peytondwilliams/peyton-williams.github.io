@@ -1,36 +1,21 @@
-# Peyton Williams
-## A Cool Dude
 
-This is the beginning of my portfolio website! It will likely be rebuilt using bootstrap.
+# Boostrap 4 Github Pages
 
-### Markdown
+[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-```markdown
-Syntax highlighted code block
+* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
+* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
+* Full support of Bootstrap's JavaScript plugins.
+* Supports all features of Github Pages and Jekyll.
 
-# Header 1
-## Header 2
-### Header 3
+[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-- Bulleted
-- List
+## Contribution
 
-1. Numbered
-2. List
+[See the contribution guide.](./CONTRIBUTING.md)
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peytondwilliams/peyton-williams.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[See the license file.](./LICENSE.md)
