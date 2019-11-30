@@ -1,24 +1,29 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Peyton Williams
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+Computer Science student and aspiring Software Engineer.
 
 * A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
 * Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-## Setup Guide
+## About me
+Studying Computer Science at Purdue Univeristy. 
 
-### Fork this repository
+## Projects
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+**Meeting Count**
 
-### Rename your forked repository
+Program for counting the number of occurences of weekly meetings between two dates. Built with Java.
 
-Here we have two possibilities:
+**WeatherBoy**
+
+A game of dodging various types of weather. Built in C using the SIGIL library.
+
+
 
 * **You want a user or organization website**
 
