@@ -1,4 +1,4 @@
-.navbar{ background:#28A745;}
+.navbar{ background:#45A29E;}
 
 .navbar-brand:hover{color: #000000;}
 
@@ -16,30 +16,21 @@
  
  .about{
  margin: 4em;
- padding: 1em;
+ padding: 0em;
  position: relative;
- overflow: hidden;
-}
-.about h1{
- color:#28A745;
- margin: 1em;
 }
 .about img{
- max-width: 100%;
- height: auto;
- border-radius: 50%
-}
-.about span{
  display: block;
- color: #888;
- position: absolute;
- left: 115px;
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 30%;
+ height: auto;
+ padding: 1em;
 }
-.about .desc{	
- padding: 2em;
+.about h1{
+ color: #000000;
 }
-.about .desc p{
+.about p{
  line-height:2;
- color:#888;
- padding: 4em;
+ color:#000000;
 }
